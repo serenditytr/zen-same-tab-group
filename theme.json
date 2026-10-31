@@ -1,0 +1,14 @@
+{
+  "id": "same-tab-group",
+  "name": "相同标签自动分组",
+  "description": "把同一网站的未固定标签自动收成一组。",
+  "scripts": {
+    "same-tab-group.uc.js": {
+      "include": ["chrome://browser/content/browser.xhtml"]
+    }
+  },
+  "author": "serenditytr",
+  "version": "1.0.0",
+  "tags": ["tabs", "zen"],
+  "fork": ["zen"]
+}
